@@ -1,13 +1,16 @@
 Data Analysis for the #takemymoneyHBO trend on Twitter
 =====================================================
 
+Earlier today, [Jake Caputo](http://twitter.com/#!/jakecaputo) 
+created a website, [Take My Money HBO](http://takemymoneyhbo.com/) that lets
+people tweet how much they would be willing to pay 
+for a standalone HBOGO streaming service.
+
 I was curious about what the average amount of money 
-people would be willing to pay for a standalone
-HBOGO streaming service, so I wrote two small Python
+would be, so I wrote two small Python
 scripts that use the Twitter search API to retrieve
-the 1500 most recent tweets, store them in a Python
-shelf, and then analyse them to determine the average
-amount. 
+the 1500 most recent tweets (the limits of the API) 
+and analyse the average amount in those tweets. 
 
 There are limitations to this approach, since there are
 certainly more than 1500 tweets with this hashtag. I
@@ -39,4 +42,7 @@ Remix This
 These (very simple) scripts are released under the CC-BY license,
 so download them, run them yourself, and modify them to extract 
 more interesting data - e.g. draw graphs. 
+
+If you thought this was interesting, you can follow me on Twitter
+- [@dbalasuriya](http://twitter.com/#!/dbalasuriya). 
 
