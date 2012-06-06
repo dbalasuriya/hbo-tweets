@@ -2,6 +2,11 @@ import json
 import shelve
 import requests
 
+'''
+Loads the most recent 1500 tweets matching the search result
+#takemymoneyHBO and stores them in a python shelf.
+'''
+
 shelf = shelve.open('hbotweets.dat')
 
 shelf['tweets'] = []
