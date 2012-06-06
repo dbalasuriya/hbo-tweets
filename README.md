@@ -31,6 +31,7 @@ Results
 =======
 
 Wednesday 5:10AM GMT/UTC +0:00 - *$12.06*, from 1063 data points.
+
 Wednesday 5:24AM GMT/UTC +0:00 - *$12.30*, from 1071 data points. 
 
 Remix This
