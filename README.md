@@ -43,6 +43,5 @@ These (very simple) scripts are released under the CC-BY license,
 so download them, run them yourself, and modify them to extract 
 more interesting data - e.g. draw graphs. 
 
-If you thought this was interesting, you can follow me on Twitter
-- [@dbalasuriya](http://twitter.com/#!/dbalasuriya). 
+If you thought this was interesting, you can follow me on [Twitter](http://twitter.com/#!/dbalasuriya). 
 
