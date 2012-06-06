@@ -39,7 +39,7 @@ Wednesday 5:24AM GMT/UTC +0:00 - *$12.30*, from 1071 data points.
 
 Remix This
 ==========
-These (very simple) scripts are released under the CC-BY license,
+These (very simple) scripts are released under the permissive MIT license,
 so download them, run them yourself, and modify them to extract 
 more interesting data - e.g. draw graphs. 
 
